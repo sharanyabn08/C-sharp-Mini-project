@@ -20,4 +20,4 @@ Each program can be run independently by selecting the corresponding program num
 Author
 Name: Sharanya B N
 USN: 4MH21CS087
-Faculty Name: Victor Ikechukwu Agughasi
+Faculty Name: Syeda Amira
